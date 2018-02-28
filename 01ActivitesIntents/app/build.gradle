@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.example.luhan.cc1_noite"
+        applicationId "com.example.luhan.a01activitesintents"
         minSdkVersion 22
         targetSdkVersion 26
         versionCode 1
@@ -30,5 +30,5 @@ dependencies {
     implementation 'com.android.support:design:26.1.0'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
-    androidTestImplementation 'com.android.support.test.espresso:espresso-core:2.2.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 }

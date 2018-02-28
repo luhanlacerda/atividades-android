@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CC1_NOITE</string>
+    <string name="edt_name">Nome</string>
+    <string name="btn1">Botao1</string>
+    <string name="btn2">Botao2</string>
+    <string name="btn_exibir">Exibir</string>
+    <string name="btn_sair">Sair</string>
+    <string name="edt_teste_nome">Nome</string>
+</resources>

@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CC1_NOITE</string>
+    <string name="edt_name">Name</string>
+    <string name="btn1">Button1</string>
+    <string name="btn2">Button2</string>
+    <string name="title_activity_primeiro">PrimeiroActivity</string>
+    <string name="btn_exibir">Show</string>
+    <string name="btn_sair">Exit</string>
+    <string name="edt_teste_nome">Name</string>
 </resources>
